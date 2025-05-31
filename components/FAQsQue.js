@@ -65,7 +65,7 @@ const faqs = [
     },
     {
       question: `I have another question. How can I contact support?`,
-      answer: `You can reach out anytime at dev.rahulx222@gmail.com — we’re here to help!`,
+      answer: `You can reach out anytime at sahupiyush112@gmail.com — we’re here to help!`,
     },
   ];
   
