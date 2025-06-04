@@ -21,7 +21,8 @@
 - **Backend:** Next.js API Routes (App Router), MongoDB via Mongoose  
 - **Authentication:** NextAuth.js 
 - **Hosting:** Vercel  
-- **Email Alerts:** Resend  
+- **Email Alerts:** Resend
+- **Payment Gateway:** Razorpay
 
 ---
 
